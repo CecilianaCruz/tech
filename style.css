@@ -1,0 +1,211 @@
+.navbar{
+    background-color: black;
+    color: white;
+}
+
+.imgprojetotrab{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    opacity: 50%;
+}
+
+.projetoss{
+    color: white;
+    margin-left: 6%;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.imgprojetotrab img{
+    border-radius: 30px;
+}
+
+.a{
+    background-color: black;
+}
+
+
+
+
+.entre_em_contato_submit{
+    background-color: #24242c;
+    color:cadetblue;
+
+}
+
+.entre_em_contato1{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.entre_em_contato1 input{
+    height: 40px;
+    width: 325px;
+    border-radius: 9px;
+    border-color: #24242c;
+}
+
+.obg{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.enviarobg input{
+    width: 150px;
+    height: 42px;
+    background-color: cadetblue;
+    border-radius: 8px;
+}
+
+.agradecimento{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;  
+    margin: auto;
+    margin-top: 20%;
+}
+
+.enviarobg input:hover{
+    font-weight: bold;
+}
+
+@media screen and (max-width:1020px){
+    .enviarobg input{
+        width: 120px;
+        height: 42px;
+        font-size: 10px;
+    }      
+    
+}
+
+
+.obg h1{
+    color: cadetblue;
+}
+
+.obg p{
+    color: white;
+}
+
+
+
+.enviar input{
+    background-color: cadetblue;
+    width: 95px;
+    font-weight: bold;
+    border-color: cadetblue;
+}
+
+.enviar input:hover{
+    width: 100px;
+    height: 42px;
+}
+
+
+.envie_a_mensagem input{
+    height: 180px;
+    width: 325px;
+    align-items: center;
+}
+
+.h2msg{
+    margin-left: 08%;
+    font-size: 44px;
+    color:cadetblue;
+}
+
+
+@media screen and (max-width: 1020px){
+    .entre_em_contato_submit h2{
+        margin-left: 2%;
+
+}
+}
+
+
+
+
+
+.htm1{
+    background-color: white;
+    height: 130px;
+    width: 130px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    margin-left: 30px;
+    text-align: center;
+}
+
+
+.htm1 img {
+    height: 70px;
+    width: 70px;
+    margin: auto;
+    margin-top: 15%; 
+    border-radius: 100%; 
+    display: flex; 
+    align-items: center;
+}
+
+.htm1 p{
+    display: center; 
+    align-items: center; 
+    margin-top: 5px;
+}
+
+.mensagemone{
+align-items: center;
+justify-content: center;
+display: block;
+text-align: center;
+
+}
+
+.mensagemone p{
+    font-weight: bold;
+    margin-right: 3px;
+}
+
+
+
+@media screen and (max-width: 1020px){
+.htm1{height: 90px; width: 90px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.imgprojetotrab img{
+    height: 200px;
+    width: auto;
+
+}
+}
+
+
+
+@media screen and (max-width: 1020px){
+    .htm1 img{
+        height: 75px;
+        width: 80px;
+    }
+    }
+
+
+ @media screen and (max-width: 1020px){
+    .htm1 p{
+        display: none;
+}
+}
+
+

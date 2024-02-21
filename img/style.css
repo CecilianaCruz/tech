@@ -1,0 +1,9 @@
+@media screen and (max-width: 1020px){
+    .html{
+        display: none;
+    }
+}
+
+.text-center{
+    background-color: green;
+}
