@@ -194,18 +194,3 @@ text-align: center;
 
 
 
-@media screen and (max-width: 1020px){
-    .htm1 img{
-        height: 75px;
-        width: 80px;
-    }
-    }
-
-
- @media screen and (max-width: 1020px){
-    .htm1 p{
-        display: none;
-}
-}
-
-
